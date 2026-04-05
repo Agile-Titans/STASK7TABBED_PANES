@@ -29,7 +29,7 @@ public class TabbedApp {
         frame.setVisible(true);
     }
 
-    // Tab 1: User Form
+    
     public void addTabOne() {
         JPanel panel = new JPanel(new GridLayout(3, 2));
 
@@ -44,7 +44,7 @@ public class TabbedApp {
         tabbedPane.addTab("Form", panel);
     }
 
-    // Tab 2: Text Area
+
     public void addTabTwo() {
         JPanel panel = new JPanel(new BorderLayout());
 
@@ -54,7 +54,7 @@ public class TabbedApp {
         tabbedPane.addTab("Text", panel);
     }
 
-    // Tab 3: Buttons
+
     public void addTabThree() {
         JPanel panel = new JPanel();
 
@@ -64,7 +64,7 @@ public class TabbedApp {
         tabbedPane.addTab("Buttons", panel);
     }
 
-    // Tab 4: Checkboxes
+
     public void addTabFour() {
         JPanel panel = new JPanel(new GridLayout(3, 1));
 
@@ -75,7 +75,7 @@ public class TabbedApp {
         tabbedPane.addTab("Options", panel);
     }
 
-    // Tab 5: Combo Box
+
     public void addTabFive() {
         JPanel panel = new JPanel();
 
