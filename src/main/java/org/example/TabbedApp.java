@@ -1,3 +1,6 @@
+// Branch 1 - JFrame Setup and TabbedPane Configuration
+// Created JFrame with title Tabbed Pane Application
+// Set JFrame to maximized using MAXIMIZED_BOTH
 package org.example;
 import javax.swing.*;
 import java.awt.*;
