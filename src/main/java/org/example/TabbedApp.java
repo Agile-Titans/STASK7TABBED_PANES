@@ -1,6 +1,6 @@
-// Branch 1 - JFrame Setup and TabbedPane Configuration
-// Created JFrame with title Tabbed Pane Application
-// Set JFrame to maximized using MAXIMIZED_BOTH
+// Branch 2 - Tab 1 Home and Tab 2 Profile
+// Created Home panel with welcome label
+// Created Profile panel with JTextField and JButton
 package org.example;
 import javax.swing.*;
 import java.awt.*;
