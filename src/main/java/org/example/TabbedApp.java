@@ -1,3 +1,6 @@
+// Branch 3 - Tab 3 Settings and Tab 4 Messages
+// Created Settings panel with JCheckBox components
+// Created Messages panel with JTextArea
 package org.example;
 import javax.swing.*;
 import java.awt.*;
