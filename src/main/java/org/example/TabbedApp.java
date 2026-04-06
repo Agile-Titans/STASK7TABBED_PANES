@@ -1,3 +1,6 @@
+// Branch 2 - Tab 1 Home and Tab 2 Profile
+// Created Home panel with welcome label
+// Created Profile panel with JTextField and JButton
 package org.example;
 import javax.swing.*;
 import java.awt.*;
