@@ -1,3 +1,7 @@
+// Branch 5 - Testing and Verification
+// Tested switching between all 5 tabs
+// Verified all components display correctly
+// Application runs successfully
 package org.example;
 import javax.swing.*;
 import java.awt.*;
