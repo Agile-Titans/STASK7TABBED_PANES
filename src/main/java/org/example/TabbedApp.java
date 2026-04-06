@@ -1,3 +1,7 @@
+// Branch 4 - Tab 5 About and Final Integration
+// Created About panel with description label
+// Added all tabs to JTabbedPane
+// Added JTabbedPane to JFrame
 package org.example;
 import javax.swing.*;
 import java.awt.*;
